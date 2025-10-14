@@ -1,6 +1,6 @@
-# goit-markup-hw-04
+# goit-markup-hw-05
 
-FSon-124 Homework-4 by Illia Kumpan
+FSon-124 Homework-5 by Illia Kumpan
 
     --iris: #4d5ae5;
     --ocean: #404bbf;
