@@ -1,4 +1,4 @@
-# goit-markup-hw-05
+#goit-markup-hw-05
 
 FSon-124 Homework-5 by Illia Kumpan
 
@@ -28,5 +28,5 @@ font-weight: 400;
 font-style: normal;
 
 git add .
-git commit -m hw-04-section-06
+git commit -m hw-05-launch
 git push -u origin main
